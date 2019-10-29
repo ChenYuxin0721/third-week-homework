@@ -1,0 +1,122 @@
+<html>
+<head>
+        <style type="text/css">
+        .container 
+        {
+            display: flex;
+            border: 1px solid white;
+            background-color: lightgray;
+            height: 800px;
+            width: 1600px;
+            justify-content: space-around;
+            align-items: center;
+        }
+        .box1,.box2,.box3,.box4,.box5 
+        {
+            display: flex;
+            width: 220px;
+            height: 300px;
+            border: 1px solid white;
+            border-radius: 10px;
+            justify-content: center;
+            align-items: center;
+            margin: 20px;
+            background-color: white;
+        }
+        .box1{
+            display :flex ;
+        }
+        .box2{
+            display:flex;
+            flex-direction :column;
+            justify-content: center;
+        }
+        .box3{
+            display :flex ;
+            flex-wrap :wrap ;
+            justify-content: space-around;
+        }
+        .box4{
+            display :flex ;
+            flex-wrap :wrap ;
+            justify-content: space-around;
+        }
+        .box5{
+            display :flex ;
+            flex-wrap :wrap ;
+        }
+        .cir_1{
+            height :90px;
+            width :90px;
+            border-radius :90px;
+            background-color:red;
+            border:30px solid green;
+        }
+        .cir_2{
+            height:50px;
+            width :50px;
+            border-radius :45px;
+            border: 20px solid black;
+        }
+        .cir_3{
+            height:45px;
+            width :45px;
+            border-radius :45px;
+            border: 18px solid black;
+        }
+        .cir_4{
+            height:45px;
+            width :45px;
+            border-radius :45px;
+            border: 18px solid red;
+        }
+            .cir_5 {
+                height: 35px;
+                width: 35px;
+                border-radius: 35px;
+                border: 15px solid red;
+            }
+    </style>
+</head>
+
+<body>
+    <div class="container ">
+        <div class=" box1 ">
+        <div class=" cir_1 "></div>
+        </div>
+        <div class="box2">
+            <div class="cir_2 " style="align-self:flex-start;"></div>
+            <div class="cir_2" style="border-color: red;"></div>
+            <div class="cir_2" style="border-color: green;align-self: flex-end;"></div>
+        </div>
+        <div class="box3">
+            <div class="cir_3" style="border-color: green;margin-top :20px;"></div>
+            <div class="cir_3" style="margin-top :20px;"></div>
+            <div class="cir_3" style="border-color: red;margin-right:50px;margin-left: 50px;"></div>
+            <div class="cir_3" style="margin-bottom :20px;"></div>
+            <div class="cir_3" style="border-color: green;margin-bottom :20px;"></div>
+        </div>
+        <div class="box4 ">
+            <div class="cir_4 " style="border-color :green;margin-top :2px;margin-left :12px;"></div>
+            <div class="cir_4 " style="border-color :green;margin-top :2px;margin-right :12px;"></div>
+            <div class="cir_4 " style="margin-top :25px;margin-left :12px;"></div>
+            <div class="cir_4 " style="margin-top :25px;margin-right :12px;"></div>
+            <div class="cir_4 " style=" margin-left :12px;"></div>
+            <div class="cir_4 " style=" margin-right :12px;"></div>
+        </div>
+        <div class=" box5 ">
+            <div class="cir_5 " style="border-color:green;align-items:flex-start ;"></div>
+            <div class=" cir_5 " style="border-color:green;align-items:center;margin-top :40px;"></div>
+            <div class="cir_5 " style="border-color:green;align-items:flex-end ;margin-top :80px;"></div>
+            <div class=" cir_5 " style="margin-left :15px;margin-top :10px;"></div>
+            <div class="cir_5 " style="margin-right :15px;margin-top :10px;"></div>
+            <div class=" cir_5 " style="margin-left :15px;margin-bottom :10px;"></div>
+            <div class="cir_5 " style="margin-right :15px;margin-bottom :10px;"></div>
+
+        </div>
+    </div>
+
+
+</body>
+
+</html>
