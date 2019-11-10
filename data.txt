@@ -1,0 +1,34 @@
+[<h2 class="entry-title"><a href="https://snowstar.org/2019/08/13/arangodb-based-idiom-solitaire/">基于 ArangoDB 做成语接龙</a></h2>, <h2 class="entry-title"><a href="https://snowstar.org/2019/05/09/pyprotect-by-angelic47-decode/">PyProtect By Angelic47 解密</a></h2>, <h2 class="entry-title"><a href="https://snowstar.org/2019/04/11/raspberrypi-uart/">关于树莓派Zero的串口</a></h2>, <h2 class="entry-title"><a href="https://snowstar.org/2019/04/06/wireguard-on-raspberry-pi/">WireGuard on Raspberry Pi</a></h2>, <h2 class="entry-title"><a href="https://snowstar.org/2019/04/06/rust-cross-compile-to-raspberry-pi-zero/">Rust 树莓派交叉编译</a></h2>, <h2 class="entry-title"><a href="https://snowstar.org/2018/06/30/android-live-wallpaper/">做一个Android 动态壁纸</a></h2>, <h2 class="entry-title"><a href="https://snowstar.org/2018/06/22/the-abuse-of-design-patterns-in-writing-a-hello-world-program/">[译] 如何”优雅”的用设计模式来写一 个Hello World.</a></h2>, <h2 class="entry-title"><a href="https://snowstar.org/2018/05/31/gpg-guide/">GPG 入门</a></h2>, <h2 class="entry-title"><a href="https://snowstar.org/2018/02/11/fix-android-can-not-download-update-when-using-vpn/">解决了一下 Android 把 VPN 识 别成流量而不能更新</a></h2>, <h2 class="entry-title"><a href="https://snowstar.org/2018/02/04/using-zerotier-one/">使用 Zerotier 组建 虚拟局域网</a></h2>]
+[]
+[<span class="posted-date">2019年8月13日</span>, <span class="posted-date">2019年5月9日</span>, <span class="posted-date">2019年4月11 日</span>, <span class="posted-date">2019年4月6日</span>, <span class="posted-date">2018年6月30日</span>, <span class="posted-date">2018年6月22日</span>, <span class="posted-date">2018年5月31日</span>, <span class="posted-date">2018年2月11日</span>, <span class="posted-date">2018年2月4日</span>]
+[<div class="entry-summary">
+<p>前言 最近 QQ 好像更新了个成语接龙红…</p>
+<p><a aria-label="继续阅读 基于 ArangoDB 做成语接龙" class="button" href="https://snowstar.org/2019/08/13/arangodb-based-idiom-solitaire/">继续阅读 →</a></p>
+</div>, <div class="entry-summary">
+<p># 背景 有几个python 代码被使用…</p>
+<p><a aria-label="继续阅读 PyProtect By Angelic47 解密" class="button" href="https://snowstar.org/2019/05/09/pyprotect-by-angelic47-decode/">继续阅读 →</a></p>
+</div>, <div class="entry-summary">
+<p>没错，还是关于树莓派的文章。今天整串口的…</p>
+<p><a aria-label="继续阅读 关于树莓派Zero的串口" class="button" href="https://snowstar.org/2019/04/11/raspberrypi-uart/">继续阅读 →</a></p>
+</div>, <div class="entry-summary">
+<p>上一篇提到整了个树莓派, 为了解决出门在…</p>
+<p><a aria-label="继续阅读 WireGuard on Raspberry Pi" class="button" href="https://snowstar.org/2019/04/06/wireguard-on-raspberry-pi/">继续阅读 →</a></p>
+</div>, <div class="entry-summary">
+<p>好像一年没更新文章了. 今天刚入手了一个…</p>
+<p><a aria-label="继续阅读 Rust 树莓派交叉编译" class="button" href="https://snowstar.org/2019/04/06/rust-cross-compile-to-raspberry-pi-zero/">继续阅读 →</a></p>
+</div>, <div class="entry-summary">
+<p>TL;DR:https://gitlab…</p>
+<p><a aria-label="继续阅读 做一个Android 动态壁纸" class="button" href="https://snowstar.org/2018/06/30/android-live-wallpaper/">继续 阅读 →</a></p>
+</div>, <div class="entry-summary">
+<p>Transtaled from The …</p>
+<p><a aria-label="继续阅读 [译] 如何”优雅”的用设计模式来写一个Hello World." class="button" href="https://snowstar.org/2018/06/22/the-abuse-of-design-patterns-in-writing-a-hello-world-program/">继续阅读 →</a></p>
+</div>, <div class="entry-summary">
+<p>GnuPG PGP 是一个基于 RSA …</p>
+<p><a aria-label="继续阅读 GPG 入门" class="button" href="https://snowstar.org/2018/05/31/gpg-guide/">继续阅读 →</a></p>
+</div>, <div class="entry-summary">
+<p>前言 Android 不知道从什么时候开…</p>
+<p><a aria-label="继续阅读 解决了一下 Android 把 VPN 识别成流量而不能更新" class="button" href="https://snowstar.org/2018/02/11/fix-android-can-not-download-update-when-using-vpn/">继续阅读 →</a></p>
+</div>, <div class="entry-summary">
+<p>ZeroTier delivers th…</p>
+<p><a aria-label="继续阅读 使用 Zerotier 组建虚拟局域网" class="button" href="https://snowstar.org/2018/02/04/using-zerotier-one/">继 续阅读 →</a></p>
+</div>]
